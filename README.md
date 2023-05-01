@@ -37,7 +37,7 @@ These are the steps for installing the mod (Make sure to install BepInEx before 
 
 ------------
 
-- Download the mods .zip file from here.
+- Download the mods .zip file from [here](https://github.com/Jacklog8/RefMod_Totf/releases/download/Release/JackLog-Referee-Mod.zip).
 - Extract the .zip file into the *"The Thrill of the Fight\BepInEx\Pluygins"* folder
 - Launch the game and enjoy!
 
