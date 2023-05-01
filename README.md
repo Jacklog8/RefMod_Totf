@@ -1,6 +1,6 @@
 # ** Referee Mod for Thrill of the Fight **
 
-## Discription
+## Description
 Have you ever looked at the referee and in your head you went...
 > I really really want to fucking beat the crap out of that guy.
 
