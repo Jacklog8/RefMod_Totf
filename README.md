@@ -1,4 +1,4 @@
-# ** Referee Mod for Thrill of the Fight **
+# Referee Mod for Thrill of the Fight
 
 ## Description
 Have you ever looked at the referee and in your head you went...
@@ -26,8 +26,7 @@ These are the steps for installing BepInEx on Thrill of the Fight. This is neces
 - Move the downloaded .zip file to your game directory
 > ex. C:\Program Files (x86)\Steam\steamapps\common\The Thrill of the Fight
 
-	and unzip the downloaded bepinex .zip file as shown :
-	[![Image](Image "Image")](https://i.postimg.cc/cLD9KgLs/image-2023-05-01-190523539.png "Image")
+and unzip the downloaded bepinex .zip file as shown
 > (Any program to unzip will do, i you have none installed use windows own compress and decrompess)
 
 - Launch the game and it should be succesfully installed, to confirm that it sucessfully installed there should be a folder inside The Thrill of the Fight\BepInEx called Plugins. If it is not there then refer to this guide made by the BepInEx team:
